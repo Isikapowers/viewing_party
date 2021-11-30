@@ -64,6 +64,9 @@
 | Postico        | RSpec                |
 | Heroku         | Travis CI            |
 | Bcrypt         | RuboCop              |
+| ActionMailer   |                      |
+| ActionCable    |                      |
+| Web Socket     |                      |
 
 ## Contributors
 
